@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Vignir Isberg
-email: vis@vignir.org
+title: ORDMØLLEN
+email: maiken@ordmollen.dk
 description: > # this means to ignore newlines until "baseurl:"
-    Personal website of Vignir Isberg
+    ordmollen.dk
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://viis.github.io" # the base hostname & protocol for your site
-twitter_username: vignirisberg
+url: "http://ordmollen.github.io" # the base hostname & protocol for your site
+twitter_username: ordmollen
 github_username:  viis
 
 # Build settings
