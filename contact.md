@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
+title: Kontakt
 permalink: /contact/
 ---
 
-I can be reached by email at vis@vignir.org and on Twitter [@vignirisberg](http://twitter.com/vignirisberg).
+Ordmøllen kan kontaktes via [maiken@ordmollen.dk](mailto:maiken@ordmollen.dk).
